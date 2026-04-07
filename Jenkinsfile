@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 	tools {
-		maven "naven'
+		maven 'naven'
 	}
 	stages {
 		stage ("Clean up"){
